@@ -308,8 +308,8 @@ class MainMenuWindow(bui.MainWindow):
                 self._button_height * 0.7,
             ),  # Smaller button
             autoselect=self._use_autoselect,
-            label="Run RL Training",  # TODO: Localize
-            transition_delay=thistdelay,  # Use an appropriate delay
+            label="RL Deathmatch",
+            transition_delay=thistdelay,
             on_activate_call=self._run_training_press,
         )
 

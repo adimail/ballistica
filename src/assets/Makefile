@@ -411,6 +411,7 @@ SCRIPT_TARGETS_PY_PUBLIC = \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/radiogroup.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/report.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/resourcetypeinfo.py \
+  $(BUILD_DIR)/ba_data/python/bauiv1lib/rl_game_session.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/rlmapselect.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/sendinfo.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/serverdialog.py \
@@ -701,6 +702,7 @@ SCRIPT_TARGETS_PYC_PUBLIC = \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/radiogroup.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/report.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/resourcetypeinfo.cpython-313.opt-1.pyc \
+  $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/rl_game_session.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/rlmapselect.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/sendinfo.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/serverdialog.cpython-313.opt-1.pyc \
