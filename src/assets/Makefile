@@ -411,6 +411,7 @@ SCRIPT_TARGETS_PY_PUBLIC = \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/radiogroup.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/report.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/resourcetypeinfo.py \
+  $(BUILD_DIR)/ba_data/python/bauiv1lib/rlmapselect.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/sendinfo.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/serverdialog.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/settings/__init__.py \
@@ -448,6 +449,9 @@ SCRIPT_TARGETS_PY_PUBLIC = \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/url.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/v2upgrade.py \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/watch.py \
+  $(BUILD_DIR)/ba_data/python/rl_env.py \
+  $(BUILD_DIR)/ba_data/python/rl_reward.py \
+  $(BUILD_DIR)/ba_data/python/rl_train.py \
   $(BUILD_DIR)/server_package/ballisticakit_server.py
 
 SCRIPT_TARGETS_PYC_PUBLIC = \
@@ -697,6 +701,7 @@ SCRIPT_TARGETS_PYC_PUBLIC = \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/radiogroup.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/report.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/resourcetypeinfo.cpython-313.opt-1.pyc \
+  $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/rlmapselect.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/sendinfo.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/serverdialog.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/settings/__pycache__/__init__.cpython-313.opt-1.pyc \
@@ -734,6 +739,9 @@ SCRIPT_TARGETS_PYC_PUBLIC = \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/url.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/v2upgrade.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/ba_data/python/bauiv1lib/__pycache__/watch.cpython-313.opt-1.pyc \
+  $(BUILD_DIR)/ba_data/python/__pycache__/rl_env.cpython-313.opt-1.pyc \
+  $(BUILD_DIR)/ba_data/python/__pycache__/rl_reward.cpython-313.opt-1.pyc \
+  $(BUILD_DIR)/ba_data/python/__pycache__/rl_train.cpython-313.opt-1.pyc \
   $(BUILD_DIR)/server_package/__pycache__/ballisticakit_server.cpython-313.opt-1.pyc
 
 SCRIPT_TARGETS_SO_PUBLIC = \
